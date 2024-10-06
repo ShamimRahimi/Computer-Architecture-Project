@@ -1,9 +1,7 @@
 # Computer-Architecture-Project
 
 # 4-Bit Serial Adder-Based Multiplier
-<img width="815" alt="Screenshot 1403-07-15 at 8 52 06 PM" src="https://github.com/user-attachments/assets/c6050d28-1b36-4f30-987f-a0adc135b0df">
-
-
+<img width="700" alt="Screenshot 1403-07-15 at 8 52 06 PM" src="https://github.com/user-attachments/assets/c6050d28-1b36-4f30-987f-a0adc135b0df">
 
 This project implements a 4-bit binary multiplier by adding the number \(A\) repeatedly, based on the value of \(B\). The multiplication is done by controlling how many times \(A\) is added to itself, simulating the multiplication process.
 
@@ -30,6 +28,8 @@ This project implements a 4-bit binary multiplier by adding the number \(A\) rep
 - **Images**: Pictures of the circuit setup.
 
 # 4-Bit Multiplier/Divider Circuit
+
+<img width="700" alt="Screenshot 1403-07-15 at 8 38 16 PM" src="https://github.com/user-attachments/assets/8ccae0b3-c34b-4d72-b9e4-c6fe5bd6a589">
 
 This project implements a 4-bit hardware multiplier and divider. The circuit can switch between multiplication and division modes based on the control bit `M`.
 
