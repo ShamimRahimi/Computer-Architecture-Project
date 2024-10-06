@@ -1,6 +1,9 @@
 # Computer-Architecture-Project
 
 # 4-Bit Serial Adder-Based Multiplier
+<img width="815" alt="Screenshot 1403-07-15 at 8 52 06 PM" src="https://github.com/user-attachments/assets/c6050d28-1b36-4f30-987f-a0adc135b0df">
+
+
 
 This project implements a 4-bit binary multiplier by adding the number \(A\) repeatedly, based on the value of \(B\). The multiplication is done by controlling how many times \(A\) is added to itself, simulating the multiplication process.
 
